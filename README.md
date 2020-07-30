@@ -8,8 +8,8 @@
 
 ### Related doc
 
-- [Installing RSAT](https://rsat-doc.github.io/installing-RSAT/)
-- [Managing RSAT](https://rsat-doc.github.io/managing-RSAT/)
+- [Installing RSAT](https://rsa-tools.github.io/installing-RSAT/)
+- [Managing RSAT](https://rsa-tools.github.io/managing-RSAT/)
 
 ### Support or Contact
 
