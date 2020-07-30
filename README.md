@@ -4,7 +4,7 @@
 
 ### Practicals
 
-- [Motif discovery in yeast ChIP-seq peaks](practicals/yeast_ChIP-seq/yeast_ChIP-seq_practical.html)
+- [Motif discovery in yeast ChIP-seq peaks](https://rsat-doc.github.io/using-RSAT/)
 
 ### Related doc
 
