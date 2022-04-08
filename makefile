@@ -26,7 +26,7 @@ local:
 	open  ${LOCAL}
 
 #WEB_URL=http://pedagogix-tagc.univ-mrs.fr/courses/SBBCU16L_cisreg
-WEB_URL=https://rsat-doc.github.io/using-RSAT/
+WEB_URL=https://rsa-tools.github.io/using-RSAT/
 web:
 	open  ${WEB_URL}
 
