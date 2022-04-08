@@ -6,7 +6,7 @@ https://rsa-tools.github.io/using-RSAT/
 
 ### Practicals
 
-- [Motif discovery in yeast ChIP-seq peaks](https://rsat-doc.github.io/using-RSAT/)
+- [Motif discovery in yeast ChIP-seq peaks](https://rsa-tools.github.io/using-RSAT/)
 
 ### Related doc
 
